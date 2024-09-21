@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "565ce7ba-6165-41c2-bb46-76df9e7e9176_7ef36c1c-663a-42f9-85e4-751a5b9fac1e",
+  "gitSyncId": "57bf4d28-0acf-4d65-9f51-5af65f71fc4a_b7ac0198-fd85-4115-ac8e-33ca7fa63ef8",
   "unpublishedPage": {
     "layouts": [
       {
@@ -10,14 +10,13 @@
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 520,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 50,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -26,7 +25,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Page5",
+    "slug": "page5"
   }
 }
